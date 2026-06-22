@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maulaaa - Portfolio</title>
-<link rel="icon" href="{{ asset('images/portfolio (1).png') }}" type="image/x-icon">
+<link rel="icon" href="{{ asset('images/portfolio(1).png') }}" type="image/x-icon">
     
     <!-- External Libraries -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
@@ -1415,7 +1415,7 @@
                         <div class="floating-shape shape-2"></div>
                         <div class="floating-shape shape-3"></div>
                         <div class="profile-image">
-                            <img src="{{ asset('images/WhatsApp Image 2026-06-21 at 12.07.38.jpeg') }}" alt="Profile">
+                            <img src="{{ asset('images/WhatsAppImage2026-06-21at12.07.38.jpeg') }}" alt="Profile">
                         </div>
                     </div>
                 </div>
