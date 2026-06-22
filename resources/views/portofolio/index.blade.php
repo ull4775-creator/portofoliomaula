@@ -1440,7 +1440,7 @@
             <div class="about-content">
                 <div class="about-image reveal-left">
                     <div class="about-img-wrapper">
-                        <img src="{{ asset('images/WhatsApp Image 2026-06-21 at 12.07.38.jpeg') }}" alt="Profile">
+                        <img src="{{ asset('images/profile.jpg') }}" alt="Profile">
                         <div class="experience-badge">
                             <span class="exp-number">2+</span>
                             <span class="exp-text">Tahun<br>Pengalaman</span>
